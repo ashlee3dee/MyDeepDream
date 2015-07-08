@@ -44,3 +44,15 @@ Nicholas Alaniz 2015
 
 12. use your web browser to go to		
 	`https://the.ser.ver.ip/`		
+
+##extras		
+1. boot2docker console		
+	`resize the console by right clicking on its title`		
+	`select properties`		
+	`open the layout tab`		
+	`change screen buffer size to 200 and 1000`		
+2. browsing vm filesystem from boot2docker console		
+	`docker ps`		
+	look for NAMES, the value(s) below are names (will be something odd)		
+	`docker exec -it odd_name bash`		
+	you are now browsing the vm filesystem		
