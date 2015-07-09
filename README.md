@@ -3,11 +3,11 @@ Nicholas Alaniz 2015
 
 #Sources
 
-[tutorial](http://ryankennedy.io/running-the-deep-dream/)
+[tutorial](http://ryankennedy.io/running-the-deep-dream/)		
+[deepdream repo](https://github.com/google/deepdream)		
+[deepdream docker image](https://github.com/ryankennedyio/deep-dream-generator)		
+[boot2docker install](https://github.com/boot2docker/windows-installer/releases)		
 
-[deepdream repo](https://github.com/ryankennedyio/deep-dream-generator)
-
-[boot2docker](https://github.com/boot2docker/windows-installer/releases)
 ## How to
 1. download and install boot2docker + virtualbox package  
 
