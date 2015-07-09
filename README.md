@@ -13,7 +13,7 @@ Nicholas Alaniz 2015
 
 2. run boot2docker.exe		
 
-3. let it run until you see		
+3. let it boot. the vm is done booting when you see		
 	`User@Computer ~`		
  	`$ _`
 
