@@ -1,5 +1,5 @@
 # MyDeepDream
-Nicholas Alaniz 2015
+Astrid Alaniz 2015
 
 #Sources
 
